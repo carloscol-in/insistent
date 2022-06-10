@@ -1,7 +1,6 @@
 import abc
 import asyncio
 import datetime
-import time
 from typing import Callable
 
 from insistent import strategies as retry_strategies
